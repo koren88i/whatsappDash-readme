@@ -26,6 +26,12 @@ Compare sent and received activity by local weekday and hour. The dashboard also
 
 ![Synthetic sent and received weekday-by-hour heatmaps](images/time-patterns.png)
 
+### After 1800 Parade
+
+Rank messages and voice-note time from a chosen local cutoff (18:00 by default) through the end of each selected day. The view keeps direct-chat directions and group participants separate, and lets you narrow the ranking by day of week. Where text is retained locally, a word-occurrence ranking can show matching source messages for one selected row.
+
+![Synthetic After 1800 Parade with cut-off and weekday controls, participant rankings, and top-ten charts](images/after-1800-parade.png)
+
 ### Ask Activity
 
 Ask for rankings and other numeric summaries within a selected group or participant scope. Exact filtering and calculations run locally; the screen shows how it interpreted the question.
@@ -34,4 +40,4 @@ Ask for rankings and other numeric summaries within a selected group or particip
 
 ## About this public repository
 
-It contains only this README and four synthetic screenshots. Application source, configuration, development history, and personal data stay private. This repository is an overview, not an installable release.
+It contains only this README and five synthetic screenshots. Application source, configuration, development history, and personal data stay private. This repository is an overview, not an installable release.
